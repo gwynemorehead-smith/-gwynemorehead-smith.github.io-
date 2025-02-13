@@ -1,7 +1,7 @@
 ---
 title: "Gwyne Morehead-Smith"
-  image: profile.jpg
-  toc: false
+image: media/profile.jpg
+toc: false
 about:
   template: broadside
   links:
@@ -12,3 +12,5 @@ about:
     - text: Email
       href: ggmore@colostate.edu
 ---
+
+
