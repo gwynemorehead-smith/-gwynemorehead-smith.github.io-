@@ -1,7 +1,15 @@
 ---
 title: "Gwyne Morehead-Smith"
-about: broadside
-  template: 
+about:
+  template: broadside
+  image: profile.jpg
+  links:
+    - text: LinkedIn
+      href: https:www.linkedin.com/in/ro-morehead-smith
+    - text: GitHub
+      href: https://github.com/gwynemorehead-smith
+    - text: Email
+      href: ggmore@colostate.edu
 ---
 
 This is a Quarto website.
